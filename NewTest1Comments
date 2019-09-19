@@ -1,0 +1,19 @@
+NewTest1.js
+DDE in Insurance Involvment
+
+Log into Archer
+Click Business Resiliency > Log a Crisis Event > scroll down to Crisis Monitoring > Insurance Involvment
+
+test1 
+click button 'Yes' for Insurance Involvment
+When Yes is selected, fields Policy Number, Agent Name, and Claim ID should show.
+
+test2
+click button 'No' for Insurance Involvment
+Here we expect no other properties to show.
+
+test3
+click button 'Unknown' for Insurance Involvment
+Here we expect no other properties to show.
+
+END of test for Crisis Events: Insurance Involvment

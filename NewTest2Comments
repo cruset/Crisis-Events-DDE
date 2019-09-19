@@ -1,0 +1,37 @@
+NewTest2.js
+DDE in Legal Involvment
+
+Log into Archer (I use VM15)
+click Business Resiliency > Log a Crisis Event > scroll down to Crisis Monitoring > Legal Involvment
+
+test1
+click button 'Yes' for Legal Involvment
+When Yes is selected, fields Reported to Police, Police Officer Name, Legal Involvement Details, Police Case Number, Police Department should show.
+
+test2
+click button 'No' for Legal Involvment.
+Here we expect no other properties to show.
+
+test3
+click button 'Unknown' for Legal Involvment.
+Here we expect no other properties to show.
+
+test4
+click button 'Yes' for Legal Involvment.
+click drop down 'Reported to Police' 
+select 'Yes'
+
+test5
+click button 'Yes' for Legal Involvment.
+click drop down 'Reported to Police' 
+select 'No Selection'
+
+test6
+click button 'Yes' for Legal Involvment.
+click drop down 'Reported to Police' 
+select 'No'
+
+test7
+click button 'Yes' for Legal Involvment.
+click drop down 'Reported to Police' 
+select 'Unknown'
